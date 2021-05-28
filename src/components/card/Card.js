@@ -1,11 +1,8 @@
 import React from 'react'
-import cardimg from '../../assets/card1.png'
+import cardimg from '../../assets/card1.jpg'
 import { Link } from 'react-router-dom'
-
 function Card(props) {
     const product = props.product
-    //---------------------------
-    
     return (
         <div className="col-md-4 mb-4">
             <div class="card">

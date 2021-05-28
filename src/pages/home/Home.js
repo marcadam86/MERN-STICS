@@ -6,7 +6,6 @@ function Home(props) {
 
     const [products, setProducts] = useState(props.products)
 
-    
     return (
         <div>
             <Slider />
@@ -18,7 +17,6 @@ function Home(props) {
         </div>
     )
 }
-
 
 
 export default Home

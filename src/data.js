@@ -379,3 +379,12 @@ export const products = [
         category: "midnight-deals"
     }
 ]
+
+export const categories = [
+
+    'everyday-value',
+    'make-it-a-meal',
+    'midnight-deals',
+    'snacks',
+    'signature-box'
+]
